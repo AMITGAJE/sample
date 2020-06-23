@@ -4,16 +4,21 @@
 
 #  Configuration Guide
 
+This guide includes the following:
+* [Introduction](#Introduction)
+* [Configuration overview](#Configuration-overview)
+* [Configuration steps](#Configuration-steps)
+
 ## Introduction
 
 This guide includes the configuration steps that you must perform to configure ABC. This is sample content. This is sample content. This is sample content. This is sample content.
 
-## Configuration Overview
+## Configuration overview
 
 You must configure settings in ABC. This is sample content. This is sample content. This is sample content. This is sample content.
 This is sample content. This is sample content. This is sample content. This is sample content.
 
-## Configuration Steps
+## Configuration steps
 
 1.	Sign into **ABC Server**. The **All ABC Secrets** page appears.
  

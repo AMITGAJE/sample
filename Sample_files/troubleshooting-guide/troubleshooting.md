@@ -8,7 +8,7 @@ The following table lists the errors and its description for the integration of 
 
 | Error | Description |
 | ----- |  ---------- |
-|  101  |  << Sample content>> |
-|  102  |  << Sample content>> | 
-|  103  |  << Sample content>> |              
+|  101  |  This is sample content. This is sample content. This is sample content. This is sample content. |
+|  102  |  This is sample content. This is sample content. This is sample content. This is sample content. | 
+|  103  |  This is sample content. This is sample content. This is sample content. This is sample content. |              
   

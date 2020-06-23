@@ -4,13 +4,14 @@
 
 # Getting Started Guide
 
+This guide includes the following:
+* [Introduction](#Introduction)
+* [Prerequisites](#Prerequisites)
+* [Installation steps](#Installation-steps)
+
 ## Introduction
 
 You need to perform a set of steps to install ABC. This is a sample content. This is a sample content. This is a sample content. This is a sample content.
-
-This chapter has the following sections:
-* [Prerequisites](#Prerequisites)
-* [Installation steps](#Installation-steps)
 
 ## Prerequisites
 
