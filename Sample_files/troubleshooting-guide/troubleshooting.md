@@ -8,14 +8,14 @@ The following table lists the errors and its description for the integration of 
 
 | Error | Description |
 | ----- |  ---------- |
-|  101  |  This is sample content. This is sample content. This is sample content. This is sample content. |
-|  102  |  This is sample content. This is sample content. This is sample content. This is sample content. | 
-|  103  |  This is sample content. This is sample content. This is sample content. This is sample content. |              
-|  104  |  This is sample content. This is sample content. This is sample content. This is sample content. |
-|  105  |  This is sample content. This is sample content. This is sample content. This is sample content. | 
-|  106  |  This is sample content. This is sample content. This is sample content. This is sample content. |             
-|  107  |  This is sample content. This is sample content. This is sample content. This is sample content. |
-|  108  |  This is sample content. This is sample content. This is sample content. This is sample content. | 
-|  109  |  This is sample content. This is sample content. This is sample content. This is sample content. |  
-|  110  |  This is sample content. This is sample content. This is sample content. This is sample content. |
+|  A000101  |  This is sample content. This is sample content. This is sample content. This is sample content. |
+|  A000102  |  This is sample content. This is sample content. This is sample content. This is sample content. | 
+|  A000103  |  This is sample content. This is sample content. This is sample content. This is sample content. |              
+|  A000104  |  This is sample content. This is sample content. This is sample content. This is sample content. |
+|  A000105  |  This is sample content. This is sample content. This is sample content. This is sample content. | 
+|  A000106  |  This is sample content. This is sample content. This is sample content. This is sample content. |             
+|  A000107  |  This is sample content. This is sample content. This is sample content. This is sample content. |
+|  A000108  |  This is sample content. This is sample content. This is sample content. This is sample content. | 
+|  A000109  |  This is sample content. This is sample content. This is sample content. This is sample content. |  
+|  A0001010  |  This is sample content. This is sample content. This is sample content. This is sample content. |
                      
